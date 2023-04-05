@@ -7,7 +7,7 @@ Software Developer and student.
 *   🌍  I'm based in Hamburg, Germany
 *   🖥️  See my portfolio at [Foth.dev](http://foth.dev)
 *   ✉️  You can contact me at [nico@foth.dev](mailto:nico@foth.dev)
-*   🚀  I'm currently working on [MeetUp](http://github.de)
+*   🚀  I'm currently working on [MeetUp](http://github.de/NicoFoth)
 *   🧠  I'm learning Rust lang
 *   🤝  I'm open to collaborating on interesting projects
 
